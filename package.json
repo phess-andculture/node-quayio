@@ -1,0 +1,23 @@
+{
+  "name": "quayio",
+  "version": "0.1.0",
+  "description": "node-quayio ===========",
+  "main": "lib/quayio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phess-andculture/node-quayio"
+  },
+  "author": "Phil Hess <phess@andculture.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phess-andculture/node-quayio/issues"
+  },
+  "homepage": "https://github.com/phess-andculture/node-quayio",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "docker-modem": "git://github.com/phess-andculture/docker-modem"
+  }
+}
